@@ -1,0 +1,77 @@
+[33mcommit 20af06ce42b898c6be069b55e23700a66776b096[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Ravi Teja Surla <raviteja1706@gmail.com>
+Date:   Wed Apr 8 23:11:19 2020 +0530
+
+    Use django-crispy-forms for better Add Cheese form display
+
+[33mcommit 263327778f554920547cab051c2c375717a99fea[m
+Author: Ravi Teja Surla <raviteja1706@gmail.com>
+Date:   Wed Apr 8 20:08:18 2020 +0530
+
+    Implement cheese country of origin
+
+[33mcommit 2de7e7c5d25d16058bd1dcf4a5718bed675129a8[m
+Author: Ravi Teja Surla <raviteja1706@gmail.com>
+Date:   Tue Apr 7 22:06:30 2020 +0530
+
+    First pass at working Add Cheese form
+
+[33mcommit 27249b3061f0f682561a68495e00d9b457ee36f2[m
+Author: Ravi Teja Surla <raviteja1706@gmail.com>
+Date:   Tue Apr 7 21:29:13 2020 +0530
+
+    Implement cheese country of origin
+
+[33mcommit 91cd322621fdce1dc7855b2d284682cae8d7e2d4[m
+Author: Ravi Teja Surla <raviteja1706@gmail.com>
+Date:   Tue Apr 7 20:42:11 2020 +0530
+
+    Use CheeseFactory in a test
+
+[33mcommit d4d459a1a6ef325bdc828f1f9be67ef31f54b45f[m
+Author: Ravi Teja Surla <raviteja1706@gmail.com>
+Date:   Tue Apr 7 20:13:04 2020 +0530
+
+    Add a cheese factory
+
+[33mcommit 6b1cac8a3e9ca9f5f7ad6ae3c559193c1cfaea64[m
+Author: Ravi Teja Surla <raviteja1706@gmail.com>
+Date:   Tue Apr 7 18:24:27 2020 +0530
+
+    Implement cheese detail page
+
+[33mcommit 18f58b9c39c92403b2689c28a0598565648038cf[m
+Author: Ravi Teja Surla <raviteja1706@gmail.com>
+Date:   Tue Apr 7 18:09:19 2020 +0530
+
+    Implement cheese list page, add navbar link
+
+[33mcommit 851881d80869c646c76f6d2cc370f7e7640c8e9f[m
+Author: Ravi Teja Surla <raviteja1706@gmail.com>
+Date:   Thu Apr 2 20:37:08 2020 +0530
+
+    Register Cheese model with the admin
+
+[33mcommit 5a0a35784317df3ff7abbc39ece892bf4bdfd1cc[m
+Author: Ravi Teja Surla <raviteja1706@gmail.com>
+Date:   Wed Apr 1 10:36:09 2020 +0530
+
+    add cheese model tests
+
+[33mcommit 7518034daf877bc861162bb24a38c685fc5cdda6[m
+Author: Ravi Teja Surla <raviteja1706@gmail.com>
+Date:   Wed Apr 1 10:03:16 2020 +0530
+
+    Add cheeses app
+
+[33mcommit 6f4d272edc79e4f9d1a9f322ebf2752c00ee6913[m
+Author: Ravi Teja Surla <raviteja1706@gmail.com>
+Date:   Mon Mar 30 12:36:16 2020 +0530
+
+    Add bio field to User model, views, templates
+
+[33mcommit 407a68b152ae20ec1aef9f1d59792c849992985b[m
+Author: Ravi Teja Surla <raviteja1706@gmail.com>
+Date:   Sun Mar 29 00:48:48 2020 +0530
+
+    Boilerplate files generated from the `django-crash-starter` project template
