@@ -1,8 +1,6 @@
 from django.contrib.auth.mixins import LoginRequiredMixin
 
-from django.views.generic import CreateView
-
-from django.views.generic import ListView, DetailView
+from django.views.generic import ( ListView, DetailView, CreateView, UpdateView )
 
 from .models import Cheese
 
@@ -20,3 +18,7 @@ class CheeseCreateView(LoginRequiredMixin, CreateView):
 class CheeseDetailView(DetailView): 
     model = Cheese
 
+class CheeseUpdateView((LoginRequiredMixin, UpdateView): 
+    model = Cheese 
+    fields = [ 'name', 'description', 'firmness', 'country_of_origin'] 
+    action = "Update"
